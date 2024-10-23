@@ -1,5 +1,5 @@
 
-###Quality Prediction in Mining Process
+#### Quality Prediction in Mining Process
 
 #### Overview:
 This project focuses on predicting impurity levels in the mining process, particularly targeting the percentage of silica in iron ore concentrate. Using machine learning (ML) techniques, the project aims to optimize the flotation process, ensuring higher quality and reducing environmental impacts. The dataset used is from a real-world mining plant, containing process variables and key quality measures.
